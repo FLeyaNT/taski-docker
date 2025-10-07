@@ -69,3 +69,4 @@ jobs:
           context: ./backend/
           push: true
           tags: 1fleyant1/taski_backend:latest
+          
